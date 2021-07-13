@@ -1,2 +1,2 @@
 # Lakeshore335-Control
-Control software for Lakeshore 335 temperature controller
+GUI control program for Lakeshore 335 temperature controller
